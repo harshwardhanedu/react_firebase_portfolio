@@ -1,5 +1,5 @@
 import { Spline } from "@splinetool/react-spline";
-import Vetri from "./images/vetri.jpg";
+import Vetri from "./images/aarti.jpeg";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
