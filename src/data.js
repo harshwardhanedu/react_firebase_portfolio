@@ -16,7 +16,7 @@ import img6 from "./images/thumb-whatsappui-clone-nextjs.png";
 export const Experience = [
   {
     id: 1,
-    date: "2016 - present",
+    date: "2018- present",
     iconsSrc: <IoCodeWorking />,
     title: "Creative Director",
     location: "Doha, Qatar",
